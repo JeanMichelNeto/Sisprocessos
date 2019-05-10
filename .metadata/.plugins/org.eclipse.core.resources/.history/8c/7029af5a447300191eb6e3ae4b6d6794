@@ -1,0 +1,8 @@
+package br.com.fasete.processos.domain;
+
+import javax.persistence.Entity;
+
+@Entity
+public class Setor extends GenericDomain{
+
+}

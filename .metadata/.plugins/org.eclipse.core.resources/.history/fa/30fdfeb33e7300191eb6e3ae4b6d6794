@@ -1,0 +1,5 @@
+package br.com.fasete.processos;
+
+public class HibernateUtil {
+
+}

@@ -1,0 +1,5 @@
+package br.com.fasete.processos.domain;
+
+public class Contribuinte {
+
+}

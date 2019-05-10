@@ -1,0 +1,7 @@
+package br.com.fasete.processos.domain;
+
+import java.io.Serializable;
+
+public class GenericDomain implements Serializable {
+
+}

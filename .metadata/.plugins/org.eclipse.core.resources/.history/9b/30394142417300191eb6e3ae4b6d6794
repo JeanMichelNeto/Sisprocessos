@@ -1,0 +1,5 @@
+package br.com.fasete.processos.util;
+
+public class HibernateUtilTest {
+
+}

@@ -1,0 +1,9 @@
+package br.com.fasete.processos.domain;
+
+import javax.persistence.Entity;
+
+@SuppressWarnings("serial")
+@Entity
+public class Historico extends GenericDomain {
+
+}
